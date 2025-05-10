@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GGJ.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GGJEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GGJ">
+      <UniqueIdentifier>{6D38DB0B-3F25-303C-BC4B-7EAB7A009BB5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ\GGJ.Build.cs">
+      <Filter>Source\GGJ</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GGJ\GGJ.cpp">
+      <Filter>Source\GGJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\GGJ.h">
+      <Filter>Source\GGJ</Filter>
+    </ClCompile>
+    <Filter Include="Source\GGJ\Private">
+      <UniqueIdentifier>{CD16F390-ED23-3533-8544-06710082E2B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ\Private\AmbulanceComponent.cpp">
+      <Filter>Source\GGJ\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Private\CharacterComponent.cpp">
+      <Filter>Source\GGJ\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Private\CharacterVehiclePawn.cpp">
+      <Filter>Source\GGJ\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Private\Projectile.cpp">
+      <Filter>Source\GGJ\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Private\TankComponent.cpp">
+      <Filter>Source\GGJ\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GGJ\Public">
+      <UniqueIdentifier>{C05A05EE-A2D0-3D25-A593-931475D3C9EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ\Public\AmbulanceComponent.h">
+      <Filter>Source\GGJ\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Public\CharacterComponent.h">
+      <Filter>Source\GGJ\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Public\CharacterVehiclePawn.h">
+      <Filter>Source\GGJ\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Public\Projectile.h">
+      <Filter>Source\GGJ\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GGJ\Public\TankComponent.h">
+      <Filter>Source\GGJ\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

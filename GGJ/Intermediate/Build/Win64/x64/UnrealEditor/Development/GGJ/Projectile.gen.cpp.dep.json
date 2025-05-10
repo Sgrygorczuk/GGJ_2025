@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lucap\\source\\repos\\ggj_2025\\ggj\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj\\uht\\projectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucap\\source\\repos\\ggj_2025\\ggj\\intermediate\\build\\win64\\x64\\ggjeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lucap\\source\\repos\\ggj_2025\\ggj\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ggj\\definitions.ggj.h",
+            "c:\\users\\lucap\\source\\repos\\ggj_2025\\ggj\\source\\ggj\\public\\projectile.h",
+            "c:\\users\\lucap\\source\\repos\\ggj_2025\\ggj\\intermediate\\build\\win64\\unrealeditor\\inc\\ggj\\uht\\projectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

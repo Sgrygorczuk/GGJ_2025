@@ -1,0 +1,74 @@
+[+] Containers:
+ |- [+] Container: /Game/VehicleTemplate/Maps/Test_Level
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:3B5BD45A053D3CBDB228138243EAE19D NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_B42E9936F542031C01_1936909269 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=34480.696 Y=-9396.902 Z=2232.575), Max=(X=34757.521 Y=-9015.947 Z=2488.575) RuntimeBounds:IsValid=true, Min=(X=34579.299 Y=-9194.169 Z=2268.575), Max=(X=34679.744 Y=-9093.724 Z=2452.575) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Start FolderGuid:4AD0C73C43AD1F361B1EF6AF55AAF323
+ |   |   |- Guid:46D03AE29BE632A29771DBABA58B718F NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3362.000), Max=(X=35760.000 Y=-10242.000 Z=3618.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3490.000), Max=(X=35520.000 Y=-10370.000 Z=3490.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:53A1FF9AA393389D9AF346F2E13E5399 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:5F5FCBA44C1B3E0CBF3DB5E9A7129B69 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:6DE5F883D4613264B5FD046111616F7C NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-10370.000 Z=-1.000), Max=(X=35520.000 Y=1.000 Z=3730.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3730.000), Max=(X=35520.000 Y=-10370.000 Z=3730.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:792B384D61B832EAA8D6A9B6C10435EA NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=500.000), Max=(X=-100800.000 Y=-100800.000 Z=500.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=500.000), Max=(X=-100800.000 Y=-100800.000 Z=500.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:A3A0F4B488C63C6389A6017F78110470 NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3492.000), Max=(X=35648.000 Y=-10242.000 Z=3748.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3620.000), Max=(X=35520.000 Y=-10370.000 Z=3620.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:DE488F94F73B33FCBC047091E5F42C83 NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3242.000), Max=(X=35648.000 Y=-10242.000 Z=3498.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3370.000), Max=(X=35520.000 Y=-10370.000 Z=3370.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:3B5BD45A053D3CBDB228138243EAE19D NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_B42E9936F542031C01_1936909269 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=34480.696 Y=-9396.902 Z=2232.575), Max=(X=34757.521 Y=-9015.947 Z=2488.575) RuntimeBounds:IsValid=true, Min=(X=34579.299 Y=-9194.169 Z=2268.575), Max=(X=34679.744 Y=-9093.724 Z=2452.575) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Start FolderGuid:4AD0C73C43AD1F361B1EF6AF55AAF323
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:46D03AE29BE632A29771DBABA58B718F NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3362.000), Max=(X=35760.000 Y=-10242.000 Z=3618.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3490.000), Max=(X=35520.000 Y=-10370.000 Z=3490.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:53A1FF9AA393389D9AF346F2E13E5399 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5F5FCBA44C1B3E0CBF3DB5E9A7129B69 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:6DE5F883D4613264B5FD046111616F7C NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-10370.000 Z=-1.000), Max=(X=35520.000 Y=1.000 Z=3730.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3730.000), Max=(X=35520.000 Y=-10370.000 Z=3730.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:792B384D61B832EAA8D6A9B6C10435EA NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=500.000), Max=(X=-100800.000 Y=-100800.000 Z=500.000) RuntimeBounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=500.000), Max=(X=-100800.000 Y=-100800.000 Z=500.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:A3A0F4B488C63C6389A6017F78110470 NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3492.000), Max=(X=35648.000 Y=-10242.000 Z=3748.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3620.000), Max=(X=35520.000 Y=-10370.000 Z=3620.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:DE488F94F73B33FCBC047091E5F42C83 NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=35392.000 Y=-10498.000 Z=3242.000), Max=(X=35648.000 Y=-10242.000 Z=3498.000) RuntimeBounds:IsValid=true, Min=(X=35520.000 Y=-10370.000 Z=3370.000), Max=(X=35520.000 Y=-10370.000 Z=3370.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/VehicleTemplate/Maps/Test_Level
+----------------------------------------------------------------------------------------------------------------
+Test_Level - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Test_Level Persistent Level
+ |- Always loaded Actor Count: 8 
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/8/5B/ZBC7KXESLS5P8FFIGI01G7
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/1/DJ/5BPKQW55GZMFB38DLIX5U1
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/1/V5/J0YU7K49NQ9WXVUM7YIX3X
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.PlayerStart_UAID_B42E9936F542031C01_1936909269
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/5/AT/RXP7DH4V504P8EV07VZR38
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/5/JC/07F26GKK504J9ZWVX9KSVI
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/8/6G/RYDMO4T6L52ZFXXM7RWE5E
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/0/84/KL0X3AXVWK5R8OBVX0J71Q
+ |- Actor Path: /Game/VehicleTemplate/Maps/Test_Level.Test_Level:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/VehicleTemplate/Maps/Test_Level/3/I8/ZMXBKISN3R6B7U1W6E4DIA
+
+----------------------------------------------------------------------------------------------------------------
+Test_Level - Runtime Spatial Hash
+----------------------------------------------------------------------------------------------------------------
+[+] StreamingGrids
+ |- [+] MainGrid
+ |   |-             Origin: X=0.000 Y=0.000 Z=0.000
+ |   |-          Cell Size: 25600
+ |   |-       World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |-      Loading Range: 76800.00
+ |   |- Block Slow Loading: No
+ |   |-  ClientOnlyVisible: No
+ |   |- 
+ |   |- [+] Grid Levels: 1
+ |   |   |- Level  0: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+ |   |- 
+ |   |- [+] Content of Grid Level 0
+ |   |- 

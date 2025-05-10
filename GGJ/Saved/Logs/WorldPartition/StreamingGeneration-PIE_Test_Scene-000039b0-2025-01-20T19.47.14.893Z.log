@@ -1,0 +1,26 @@
+[+] Containers:
+ |- [+] Container: /Game/UI/Test_Scene
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:F8A855AB47D1728EBBDEB98AB050CEEB NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:F8A855AB47D1728EBBDEB98AB050CEEB NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/UI/Test_Scene
+----------------------------------------------------------------------------------------------------------------
+Test_Scene - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Test_Scene Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Game/UI/UEDPIE_0_Test_Scene.Test_Scene:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/UI/Test_Scene/3/IT/UXIZNPRLUKHMEYPJ87NOCV
+
+----------------------------------------------------------------------------------------------------------------
+Test_Scene - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
